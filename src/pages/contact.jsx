@@ -1,6 +1,6 @@
 export default function Contact() {
     return (
-      <section className="flex flex-col items-center justify-center min-h-screen p-6">
+      <section className="flex flex-col items-center justify-center min-h-screen p-6 bg-gray-50">
         <h2 className="text-3xl font-bold text-gray-900">Get in Touch</h2>
         <p className="mt-4 text-gray-600 max-w-2xl text-center">
           Feel free to reach out via email at 
