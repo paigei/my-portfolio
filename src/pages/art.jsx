@@ -1,6 +1,6 @@
 export default function Art() {
     return (
-      <section className="w-full px-6 py-16">
+      <section className="w-full px-6 py-16 bg-white">
         {/* Header */}
         <div className="max-w-5xl mx-auto mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
