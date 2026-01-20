@@ -5,7 +5,7 @@ export default function Contact() {
         <p className="mt-4 text-gray-600 max-w-2xl text-center">
           Feel free to reach out via email at 
           <a href="mailto:your@email.com" className="text-indigo-600 underline ml-1">
-            your@email.com
+            paigeinoue@gmail.com
           </a>.
         </p>
       </section>
